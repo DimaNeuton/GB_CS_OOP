@@ -1,0 +1,15 @@
+D:\GeekBrains\1 четверть\12. ООП\Семинары\GB_CS_OOP\GB_CS_OOP\bin\Debug\net6.0\GB_CS_OOP.exe
+D:\GeekBrains\1 четверть\12. ООП\Семинары\GB_CS_OOP\GB_CS_OOP\bin\Debug\net6.0\GB_CS_OOP.deps.json
+D:\GeekBrains\1 четверть\12. ООП\Семинары\GB_CS_OOP\GB_CS_OOP\bin\Debug\net6.0\GB_CS_OOP.runtimeconfig.json
+D:\GeekBrains\1 четверть\12. ООП\Семинары\GB_CS_OOP\GB_CS_OOP\bin\Debug\net6.0\GB_CS_OOP.dll
+D:\GeekBrains\1 четверть\12. ООП\Семинары\GB_CS_OOP\GB_CS_OOP\bin\Debug\net6.0\GB_CS_OOP.pdb
+D:\GeekBrains\1 четверть\12. ООП\Семинары\GB_CS_OOP\GB_CS_OOP\obj\Debug\net6.0\GB_CS_OOP.csproj.AssemblyReference.cache
+D:\GeekBrains\1 четверть\12. ООП\Семинары\GB_CS_OOP\GB_CS_OOP\obj\Debug\net6.0\GB_CS_OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\1 четверть\12. ООП\Семинары\GB_CS_OOP\GB_CS_OOP\obj\Debug\net6.0\GB_CS_OOP.AssemblyInfoInputs.cache
+D:\GeekBrains\1 четверть\12. ООП\Семинары\GB_CS_OOP\GB_CS_OOP\obj\Debug\net6.0\GB_CS_OOP.AssemblyInfo.cs
+D:\GeekBrains\1 четверть\12. ООП\Семинары\GB_CS_OOP\GB_CS_OOP\obj\Debug\net6.0\GB_CS_OOP.csproj.CoreCompileInputs.cache
+D:\GeekBrains\1 четверть\12. ООП\Семинары\GB_CS_OOP\GB_CS_OOP\obj\Debug\net6.0\GB_CS_OOP.dll
+D:\GeekBrains\1 четверть\12. ООП\Семинары\GB_CS_OOP\GB_CS_OOP\obj\Debug\net6.0\refint\GB_CS_OOP.dll
+D:\GeekBrains\1 четверть\12. ООП\Семинары\GB_CS_OOP\GB_CS_OOP\obj\Debug\net6.0\GB_CS_OOP.pdb
+D:\GeekBrains\1 четверть\12. ООП\Семинары\GB_CS_OOP\GB_CS_OOP\obj\Debug\net6.0\GB_CS_OOP.genruntimeconfig.cache
+D:\GeekBrains\1 четверть\12. ООП\Семинары\GB_CS_OOP\GB_CS_OOP\obj\Debug\net6.0\ref\GB_CS_OOP.dll
